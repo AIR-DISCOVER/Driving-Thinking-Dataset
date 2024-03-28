@@ -20,6 +20,7 @@ The \dataset\driving-thinking.xlsx file contains three sheets:
 ## Data Format
 
 The row and column headers are identical across the three sheets. All the data are in string format.
+
 The row headers include different driver numbers and driver types (ordinary driver or professional driver), while the column headers contain various driving conditions (turning, steady straight driving, lane changing and overtaking, etc.).
 
 ## Contact
